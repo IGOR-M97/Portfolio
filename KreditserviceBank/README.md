@@ -1,11 +1,11 @@
 # **ТЕМА: "Анализ оттока клиентов Кредитсервисбанка"**
 [HTML file Jupyter Notebook](https://drive.google.com/file/d/1LfudwYauupdxBkto38zZ8MZ-UNxQGh_S/view?usp=sharing)
 
-**Цель:** Определить максимально эффективно сегменты отточных клиентов покрывающие максимум проблемных зон банка.
-**Заказчик:** отдел маркетинга банка.
-**Формат отчета:** [презентация](https://github.com/IGOR-M97/Portfolio/blob/main/KreditserviceBank/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf) и [дашборд](https://public.tableau.com/app/profile/igor.markin/viz/Dashboard_2custom/Dashboard1).
+**Цель:** Определить максимально эффективно сегменты отточных клиентов покрывающие максимум проблемных зон банка.  
+**Заказчик:** отдел маркетинга банка.  
+**Формат отчета:** [презентация](https://github.com/IGOR-M97/Portfolio/blob/main/KreditserviceBank/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf) и [дашборд](https://public.tableau.com/app/profile/igor.markin/viz/Dashboard_2custom/Dashboard1).  
 **Причина обращения:** драматический рост отточных клиентов.
-*На основе исследования будут приняты маркетинговые воздействия для сокращения числа отточных клиентов.*
+*На основе исследования будут приняты маркетинговые воздействия для сокращения числа отточных клиентов.*  
 
 **Задачи:**
     
