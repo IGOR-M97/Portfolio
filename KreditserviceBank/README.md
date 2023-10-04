@@ -1,5 +1,6 @@
 # **ТЕМА: "Анализ оттока клиентов Кредитсервисбанка"**
-[HTML file Jupyter Notebook](https://drive.google.com/file/d/1LfudwYauupdxBkto38zZ8MZ-UNxQGh_S/view?usp=sharing)
+[File Jupyter Notebook](https://github.com/IGOR-M97/Portfolio/blob/main/KreditserviceBank/Bank%20analysis.ipynb)  
+[HTML file](https://drive.google.com/file/d/1LfudwYauupdxBkto38zZ8MZ-UNxQGh_S/view?usp=sharing)
 
 **Цель:** Определить максимально эффективно сегменты отточных клиентов покрывающие максимум проблемных зон банка.  
 **Заказчик:** отдел маркетинга банка.  
