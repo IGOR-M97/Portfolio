@@ -1,10 +1,10 @@
-# **ТЕМА: "Анализ пользовательской активности мобильного приложения "Обжорка"**
+# **ТЕМА: Анализ пользовательской активности мобильного приложения "Обжорка"**
 [File Jupyter Notebook](https://github.com/IGOR-M97/Portfolio/blob/main/App%20%22Obzhorka%22/Analysis_of_user_activity.ipynb)  
 [HTML file](https://drive.google.com/file/d/1LgUGfdJhV3gPQs7Zpd-wfbnHkkZy6bF1/view)
 
 **Цель:** построение воронки продаж, изучение результатов А/В эксперимента.  
 **Заказчик:** менеджер продукта.  
-**Формат отчета:** [тетрадь Jupyter Notebook](https://github.com/IGOR-M97/Portfolio/blob/main/App%20%22Obzhorka%22/Analysis_of_user_activity.ipynb)  
+**Формат отчета:** [тетрадь Jupyter Notebook.](https://github.com/IGOR-M97/Portfolio/blob/main/App%20%22Obzhorka%22/Analysis_of_user_activity.ipynb)  
 **Причина обращения:** решение дизайнеров о замене шрифтов в приложении.
 
 **Задачи:**
