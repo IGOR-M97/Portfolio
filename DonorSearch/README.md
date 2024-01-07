@@ -1,24 +1,20 @@
-# **ТЕМА: "Анализ оттока клиентов Кредитсервисбанка"**
-[File Jupyter Notebook. Метрики](https://github.com/IGOR-M97/Portfolio/blob/main/KreditserviceBank/Bank_analysis.ipynb), [File Jupyter Notebook. Бонусы]()  
-[HTML file](https://drive.google.com/file/d/1LfudwYauupdxBkto38zZ8MZ-UNxQGh_S/view?usp=sharing)
-[Сайт организации DonorSearch](https://donorsearch.org/)
+# **ТЕМА: "Анализ данных НКО DonorSearch.org"**
+[File Jupyter Notebook. Метрики](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Metrics.ipynb), [File Jupyter Notebook. Бонусы](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Bonuses.ipynb)  
+[HTML file. Метрики](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Metrics.html), [HTML file. Бонусы](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Bonuses.html)  
+[DonorSearch](https://donorsearch.org/) — организация, мотивирующей людей становиться донорами с целью увеличения количества доноров и повышения уровня активности существующих доноров.  
 
-**Цель:** Определить максимально эффективно сегменты отточных клиентов покрывающие максимум проблемных зон банка.  
+**Цель:** Общий анализ собранных данных, выявление проблемных мест, закономерностей, общие рекомендации в дальнейшем развитии проекта.    
+
 **Заказчик:** директор ассоциации «Некоммерческое партнерство развития донорства «Донор-Сёрч»» Шекуров Руслан Петрович.  
-**Формат отчета:** [презентация](https://github.com/IGOR-M97/Portfolio/blob/main/KreditserviceBank/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf), [File Jupyter Notebook. Метрики](https://public.tableau.com/app/profile/igor.markin/viz/Dashboard_2custom/Dashboard1), [File Jupyter Notebook. Бонусы]()  
-**Причина обращения:** драматический рост отточных клиентов.
-*На основе исследования будут приняты маркетинговые воздействия для сокращения числа отточных клиентов.*  
+**Формат отчета:** [презентация](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_DonorSearch.pdf), [File Jupyter Notebook. Метрики](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Metrics.ipynb), [File Jupyter Notebook. Бонусы](https://github.com/IGOR-M97/Portfolio/blob/main/DonorSearch/Bonuses.ipynb)  
+**Причина обращения:** плановый ежегодный заказ. Заказчик обращается каждый год к команде аналитиков за экспертным мнением.    
 **Инструменты:** библиотеки pandas, matplotlib, seaborn, scipy; Power Point.
 
 **Задачи:**
     
-   *1. Провести исследовательский анализ, включающий исследование корреляций и портретов клиентов  
-    2. Выдвинуть и проверить гипотезы  
-    3. Сделать выводы о том, какие признаки стратегически влияют на отток и какие значения или интервалы этих признаков связаны с оттоком  
-    4. Выделить немелкие высокоотточные сегменты и приоритезировать их  
-    5. Дать рекомендации по приоритетным сегментам  
-    6. Подготовить презентацию со всеми ключевыми компонентами  
-    7. Построить дашборд*
+   *1. Выбрать и рассчитать метрики для оценки эффективности платформы
+    2. Оценить влияние бонусов на поведение пользователей
+    3. Подготовить совместную групповую презентацию*
 
 ***
 ## **Краткий ВЫВОД и рекомендации:**
